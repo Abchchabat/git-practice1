@@ -1,5 +1,2 @@
-Текст
-
-Здесь должен бытьклассный заголовок и тд.
-
-Изменено 28.04.2025
+A simple text file
+Performed by Vladimir Andreevich Yudnikov ISP-223p
